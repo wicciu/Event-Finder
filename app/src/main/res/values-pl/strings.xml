@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Event Finder</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="connecting">ŁĄCZENIE</string>
+    <string name="date">DATA:</string>
+    <string name="no_events">NIE ZNALEZIONO WYDARZEŃ</string>
+    <string name="no_internet">BŁĄD POŁĄCZENIA Z INTERNETEM</string>
+    <string name="pick_date">WYBIERZ DATĘ</string>
+    <string name="place">MIASTO:</string>
+    <string name="search">SZUKAJ</string>
+    <string name="wait">PROSZĘ CZEKAĆ</string>
+</resources>

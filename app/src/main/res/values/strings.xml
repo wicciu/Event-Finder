@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Event Finder</string>
+    <string name="action_settings">Settings</string>
+    <string name="place">CITY:</string>
+    <string name="date">DATE:</string>
+    <string name="pick_date">PICK DATE</string>
+    <string name="search">SEARCH</string>
+    <string name="no_events">NO EVENTS FOUND</string>
+    <string name="connecting">CONNECTING</string>
+    <string name="wait">PLESE WAIT</string>
+    <string name="no_internet">INTERNET CONNECTION ERROR</string>
+
+</resources>
